@@ -1,4 +1,4 @@
-...
+...mermaid
 sequenceDiagram
     participant A as Attacker
     participant B as Botnet (Zombies)
